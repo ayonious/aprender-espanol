@@ -48,3 +48,15 @@ Hace Sol
 Have buen tiempo
 Hace calor
 Hace Frío
+
+# Dia de semana
+
+| Weather   | El Tiempo |
+| --------- | --------- |
+| lunes     | Monday    |
+| martes    | Tuesday   |
+| miércoles | Wednesday |
+| jueves    | Thursday  |
+| viernes   | Friday    |
+| sábado    | Saturday  |
+| domingo   | Sunday    |
