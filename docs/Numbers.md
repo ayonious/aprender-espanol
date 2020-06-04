@@ -4,8 +4,6 @@ title: Numbers
 sidebar_label: Numbers
 ---
 
-# SQL
-
 | 10-99 |        |
 | ----- | ------ |
 | 0     | cero   |

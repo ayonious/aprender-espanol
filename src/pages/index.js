@@ -35,7 +35,7 @@ function PageHeadLine() {
         />
       </div>
       <Link className={styles.getStartButton} to={useBaseUrl("docs/Words")}>
-        GET STARTED
+        VAMOS
       </Link>
     </div>
   );

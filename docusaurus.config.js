@@ -1,5 +1,5 @@
 module.exports = {
-  title: "Interview Cheatsheet", // Title for your website.
+  title: "Aprender espanōl", // Title for your website.
   tagline: "Collection of my interview questions for interview",
   url: "https://spanish-notes.netlify.app", // Your website URL
   baseUrl: "/", // Base URL for your project */
@@ -12,10 +12,10 @@ module.exports = {
     announcementBar: {
       id: "support",
       content:
-        '⭐️ If you like Interview Cheatsheet, give it a star on <a target="_blank" rel="noopener noreferrer" href="https://github.com/ayonious/spanish-notes">GitHub</a>! ⭐️',
+        '⭐️ If you like this Spanish Learning website, give it a star on <a target="_blank" rel="noopener noreferrer" href="https://github.com/ayonious/spanish-notes">GitHub</a>! ⭐️',
     },
     navbar: {
-      title: "Interview Cheatsheet",
+      title: "Aprender espanōl",
       logo: {
         alt: "CTP",
         src: "img/favicon.ico",
@@ -32,20 +32,33 @@ module.exports = {
       style: "dark",
       links: [
         {
-          title: "Backend",
+          title: "Frases",
           items: [
             {
-              label: "Databases",
-              to: "docs/Databases",
+              label: "Words",
+              to: "docs/Words",
             },
           ],
         },
         {
-          title: "JS",
+          title: "Numeros",
           items: [
             {
-              label: "Eventloop",
-              to: "docs/Eventloop",
+              label: "Numbers",
+              to: "docs/Numbers",
+            },
+            {
+              label: "jQuery",
+              to: "docs/jQuery",
+            },
+          ],
+        },
+        {
+          title: "More",
+          items: [
+            {
+              label: "About",
+              to: "docs/Numbers",
             },
             {
               label: "jQuery",
