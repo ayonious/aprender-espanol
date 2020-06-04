@@ -1,10 +1,11 @@
 ---
-id: HaceDesde
-title: HaceDesde
-sidebar_label: HaceDesde
+id: Nunca
+title: Nunca
+sidebar_label: Nunca
 ---
 
 |         |         |
 | ------- | ------- |
 | nada    | nothing |
 | ninguno | no      |
+| nadie   | noone   |
