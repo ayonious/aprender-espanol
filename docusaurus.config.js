@@ -1,5 +1,3 @@
-const versions = require("./versions.json");
-
 module.exports = {
   title: "Interview Cheatsheet", // Title for your website.
   tagline: "Collection of my interview questions for interview",
@@ -56,7 +54,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Nahiyan. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Nahiyan Kamal. Built with Docusaurus.`,
     },
   },
   presets: [
