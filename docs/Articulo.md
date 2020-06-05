@@ -4,8 +4,6 @@ title: Articulo
 sidebar_label: Articulo
 ---
 
-# Imperfect (repeated done things)
-
 | atticulo | singular | plural |
 | -------- | -------- | ------ |
 | male     | el       | los    |
