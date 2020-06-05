@@ -16,3 +16,5 @@ it + a + infinitivo
 | nosotros/-as        | vamos |     |           |
 | vosotros/-as        | vais  |     |           |
 | ellos/ellas/Ustedes | van   |     |           |
+
+- voy a dormir

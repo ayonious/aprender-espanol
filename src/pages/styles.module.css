@@ -27,7 +27,7 @@
 }
 
 .getStartButton :hover {
-  text-decoration: none;
+  text-decoration: none !important;
 }
 
 /* defaults */

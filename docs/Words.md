@@ -39,15 +39,12 @@ sidebar_label: Words
 
 # Tiempo
 
-| Weather | El Tiempo | Ejemplo  |
-| ------- | --------- | -------- |
-| Sun     | Sol       | Hace sol |
-| cold    | frío      |          |
-
-Hace Sol
-Have buen tiempo
-Hace calor
-Hace Frío
+| Weather | El Tiempo | Ejemplo        |
+| ------- | --------- | -------------- |
+| Sun     | Sol       | Hace sol       |
+| cold    | frío      |                |
+| rain    | lloviendo | Este lloviendo |
+| hot     | calor     | Hace calor     |
 
 # Dia de semana
 
@@ -60,3 +57,34 @@ Hace Frío
 | viernes   | Friday    |
 | sábado    | Saturday  |
 | domingo   | Sunday    |
+
+# Taste
+
+| ES        | EN        |
+| --------- | --------- |
+| picante   | hot       |
+| delicioso | delicious |
+| soso      | nothing   |
+| frio      | cold      |
+| caliente  | hot       |
+| salado    | Salty     |
+
+# Direction
+
+| ES          | EN      |
+| ----------- | ------- |
+| izquerda    | left    |
+| de la recha | right   |
+| entre       | between |
+| lejos       | far     |
+| detras      | behind  |
+| delante     | infront |
+| cerca       | near    |
+
+# Food
+
+| ES       | EN        |
+| -------- | --------- |
+| desayuno | breakfast |
+| almuerzo | lunch     |
+| cena     | dinner    |
