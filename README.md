@@ -2,13 +2,13 @@
 
 ## Where can I speak Spanish?
 
-1. spain 🇪🇸
-2. puerto rico 🇵🇷
-3. argentina 🇦🇷
+1. Spain 🇪🇸
+2. Puerto rico 🇵🇷
+3. Argentina 🇦🇷
 4. Bolivia 🇧🇴
 5. Chile 🇨🇱
 6. Colombia 🇨🇴
-7. Cota rica 🇨🇷
+7. Costa rica 🇨🇷
 8. Cuba 🇨🇺
 9. Dominican Republic 🇩🇴
 10. Ecuador 🇪🇨
