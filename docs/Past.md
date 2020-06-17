@@ -34,3 +34,4 @@ sidebar_label: Past
 
 - Fui a correr ayer
 - Fui a Mexico
+- Fui un gusto conocerte
