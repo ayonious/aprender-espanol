@@ -12,3 +12,4 @@ sidebar_label: Nunca
 | nunca   | never   |
 
 - Nunca es tarde para apprender una nueva idioma
+- No hay nadie como tú
