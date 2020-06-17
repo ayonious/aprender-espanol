@@ -24,14 +24,23 @@
 20. Uruguay 🇺🇾
 21. Venezuela 🇻🇪
 
-Also these countries people will understand you very vaguely
+Also these countries people will understand you very vaguely and you can easily learn those languages
 
-1. People who speak POrtugese
+## People who speak Portugese
 
-Portugal, Brazil, Cape Verde, Guinea-Bissau, Mozambique, Angola and São Tomé and Príncipe
+1. Portugal 🇵🇹
+2. Brazil 🇧🇷
+3. Cape Verde 🇨🇻
+4. Guinea-Bissau 🇬🇼
+5. Mozambique 🇲🇿
+6. Angola 🇦🇴
+7. São Tomé and Príncipe 🇸🇹
 
-2. People who speak Italian
+## People who speak Italian
 
-Italy
+1. Italy 🇮🇹
+2. Sanmarino 🇸🇲
 
-So why not learn Spanish?
+# So why not learn Spanish?
+
+# 🗺️ 🥑 🌮
