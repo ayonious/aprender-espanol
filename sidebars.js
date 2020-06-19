@@ -3,13 +3,7 @@ module.exports = {
     Basics: ["Articulo"],
     Words: ["Words", "Numbers"],
     Tense: ["Gerundio", "Futur", "Past"],
-    Others: [
-      "Nunca",
-      "Algun",
-      "HaceDesde",
-      "PossessivePronouns",
-      "QueQuien",
-      "Sometimes",
-    ],
+    Grammar: ["Imperativ", "PossessivePronouns"],
+    Others: ["Nunca", "Algun", "HaceDesde", "QueQuien", "Sometimes"],
   },
 };

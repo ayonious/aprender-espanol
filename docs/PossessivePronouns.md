@@ -4,8 +4,6 @@ title: PossessivePronouns
 sidebar_label: PossessivePronouns
 ---
 
-# Imperfect (repeated done things)
-
 | persona             | my(singular)    | my(plural) | mine(singular)  | mine(plural) |
 | ------------------- | --------------- | ---------- | --------------- | ------------ |
 | yo                  | mi              | -s         | mio/mia         | -s           |
