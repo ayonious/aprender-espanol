@@ -8,14 +8,14 @@ sidebar_label: PresentPerfect
 
 subject(he) + verb(comido)
 
-| persona             | subject | estar  | comer  | beber  | tener    | vivir  |
-| ------------------- | ------- | ------ | ------ | ------ | -------- | ------ |
-| yo                  | he      | estado | comido | bebido | tenia    | vivido |
-| tú                  | has     |        |        |        | tenias   |        |
-| él/ella/Usted       | ha      |        |        |        | tenia    |        |
-| nosotros/-as        | hemos   |        |        |        | teniamos |        |
-| vosotros/-as        | habéis  |        |        |        | teniais  |        |
-| ellos/ellas/Ustedes | han     |        |        |        | tenian   |        |
+| persona             | subject | vivir  | comer  | beber  | tener  |
+| ------------------- | ------- | ------ | ------ | ------ | ------ |
+| yo                  | he      | vivido | comido | bebido | vivido |
+| tú                  | has     |        |        |        |        |
+| él/ella/Usted       | ha      |        |        |        |        |
+| nosotros/-as        | hemos   |        |        |        |        |
+| vosotros/-as        | habéis  |        |        |        |        |
+| ellos/ellas/Ustedes | han     |        |        |        |        |
 
 ## Ejemplo
 
@@ -26,6 +26,15 @@ subject(he) + verb(comido)
 # present Perfect (still happening)
 
 subject(he) + ester(estado) + verb(vivido)
+
+| persona             | subject + estado | vivir  | comer  | beber  | tener  |
+| ------------------- | ---------------- | ------ | ------ | ------ | ------ |
+| yo                  | he estado        | vivido | comido | bebido | vivido |
+| tú                  | has estado       |        |        |        |        |
+| él/ella/Usted       | ha estado        |        |        |        |        |
+| nosotros/-as        | hemos estado     |        |        |        |        |
+| vosotros/-as        | habéis estado    |        |        |        |        |
+| ellos/ellas/Ustedes | han estado       |        |        |        |        |
 
 ## Ejemplo
 
