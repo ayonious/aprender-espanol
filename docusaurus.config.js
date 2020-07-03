@@ -38,18 +38,30 @@ module.exports = {
               label: "Words",
               to: "docs/Words",
             },
-          ],
-        },
-        {
-          title: "Numeros",
-          items: [
+            {
+              label: "Who/What",
+              to: "docs/QueQuien",
+            },
             {
               label: "Numbers",
               to: "docs/Numbers",
             },
+          ],
+        },
+        {
+          title: "Tense",
+          items: [
             {
-              label: "jQuery",
-              to: "docs/jQuery",
+              label: "Past",
+              to: "docs/Past",
+            },
+            {
+              label: "Present Perfect",
+              to: "docs/PresentPerfect",
+            },
+            {
+              label: "Future",
+              to: "docs/Futur",
             },
           ],
         },
@@ -57,12 +69,20 @@ module.exports = {
           title: "More",
           items: [
             {
-              label: "About",
-              to: "docs/Numbers",
+              label: "Since/For",
+              to: "docs/HaceDesde",
             },
             {
-              label: "jQuery",
-              to: "docs/jQuery",
+              label: "Asking/Ordering",
+              to: "docs/Imperativ",
+            },
+            {
+              label: "Continuous(Doing Now)",
+              to: "docs/Gerundio",
+            },
+            {
+              label: "Comparison",
+              to: "docs/Comparison",
             },
           ],
         },
