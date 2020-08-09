@@ -1,8 +1,10 @@
 ---
-id: PossessivePronouns
-title: PossessivePronouns
-sidebar_label: PossessivePronouns
+id: Pronouns
+title: Pronouns (I,my,me,mine)
+sidebar_label: Pronouns
 ---
+
+## Processive Pronomen (my book, its mine)
 
 | persona             | my(singular)    | my(plural) | mine(singular)  | mine(plural) |
 | ------------------- | --------------- | ---------- | --------------- | ------------ |
@@ -16,3 +18,20 @@ sidebar_label: PossessivePronouns
 - mi libro
 - mis ninos
 - los ninos son mios
+- las maletas son nuestras
+- nuestras maletas
+- nuestra padre
+
+## Direct Object Pronomen (Akk/Dative - I like you, you like )
+
+| persona             | me(singular) |
+| ------------------- | ------------ |
+| yo                  | me           |
+| tú                  | te           |
+| él/ella/Usted       | lo/le        |
+| nosotros/-as        | nos          |
+| vosotros/-as        | os           |
+| ellos/ellas/Ustedes | los/las      |
+
+- me gusto mucho
+- te gusto?
