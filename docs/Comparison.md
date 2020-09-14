@@ -1,7 +1,7 @@
 ---
-id: QueQuien
-title: QueQuien
-sidebar_label: QueQuien
+id: Comparison
+title: Comparison
+sidebar_label: Comparison
 ---
 
 # más (more)

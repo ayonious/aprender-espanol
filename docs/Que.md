@@ -1,7 +1,7 @@
 ---
-id: QueQuien
-title: QueQuien
-sidebar_label: QueQuien
+id: Que
+title: Que
+sidebar_label: Que
 ---
 
 # Que
