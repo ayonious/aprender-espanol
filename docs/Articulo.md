@@ -2,6 +2,7 @@
 id: Articulo
 title: Articulo
 sidebar_label: Articulo
+slug: /
 ---
 
 | atticulo | singular | plural |

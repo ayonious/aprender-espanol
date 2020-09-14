@@ -20,7 +20,7 @@ module.exports = {
         alt: "CTP",
         src: "img/favicon.ico",
       },
-      links: [
+      items: [
         {
           href: "https://github.com/ayonious/spanish-notes",
           label: "GitHub",
@@ -95,7 +95,6 @@ module.exports = {
       "@docusaurus/preset-classic",
       {
         docs: {
-          homePageId: "Databases",
           path: "docs",
           sidebarPath: require.resolve("./sidebars.js"),
           showLastUpdateAuthor: true,
