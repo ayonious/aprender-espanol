@@ -2,23 +2,19 @@ import React from "react";
 
 const sources = [
   {
-    title: <>Aus Fernseher</>,
+    title: <>De TV</>,
     imageUrl: "img/undraw_movie_night_fldd.svg",
-    description: (
-      <>Aus Tolle Filme und Sendungen die ich gesehen und gehört habe.</>
-    ),
+    description: <>De muchos películas y programas que he visto y escuchado.</>,
   },
   {
-    title: <>Podcasts and Funk</>,
+    title: <>Podcasts y Funk</>,
     imageUrl: "img/undraw_podcast_q6p7.svg",
-    description: <>Aus Spotify und Youtube</>,
+    description: <>De Spotify y Youtube</>,
   },
   {
-    title: <>Romane und Sachbücher</>,
+    title: <>Novelas y libros de no ficción</>,
     imageUrl: "img/undraw_reading_time_gvg0.svg",
-    description: (
-      <>Viele Bücher aus andere Sprache die in Deutsch übersetz worden sind</>
-    ),
+    description: <>De Muchos libros de otros idiomas</>,
   },
 ];
 
