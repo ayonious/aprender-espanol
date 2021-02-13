@@ -3,7 +3,11 @@
 [![CircleCI](https://circleci.com/gh/ayonious/aprender-espanol.svg?style=svg)](https://circleci.com/gh/ayonious/aprender-espanol)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/7c751144-754e-4967-b380-1bc4a11d7e17/deploy-status)](https://app.netlify.com/sites/spanish-notes/deploys)
 
-## Where can I speak Spanish?
+## 🌍 Checkout the website
+
+https://spanish-notes.netlify.app/
+
+## 🗺️ Where can I speak Spanish?
 
 1. Spain 🇪🇸
 2. Puerto rico 🇵🇷
