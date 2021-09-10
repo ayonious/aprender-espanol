@@ -8,7 +8,6 @@ module.exports = {
   organizationName: "facebook", // Usually your GitHub org/user name.
   projectName: "docusaurus", // Usually your repo name.
   themeConfig: {
-    sidebarCollapsible: false,
     announcementBar: {
       id: "support",
       content:
@@ -97,6 +96,7 @@ module.exports = {
         docs: {
           path: "docs",
           sidebarPath: require.resolve("./sidebars.js"),
+          sidebarCollapsible: false,
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,
           // this enabled the edit button for documentation
