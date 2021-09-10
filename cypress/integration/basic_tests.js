@@ -15,14 +15,4 @@ describe("Integration Tests", () => {
     // show default docs page
     cy.contains("Basics");
   });
-
-  it("Docs Pages Works: Quick Start", () => {
-    // homepage get started button clicked
-    cy.contains("Vamos").click();
-
-    // show default docs page
-    cy.contains("Gerundio").click();
-
-    cy.contains("Present Continuous");
-  });
 });
