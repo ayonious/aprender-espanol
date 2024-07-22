@@ -15,14 +15,14 @@ sidebar_label: Words
 | eyes           | ojos             |
 | leg            | pie              |
 | hand           | la mano          |
-| la cabeza      | head             |
-| la cara        | face             |
-| el estómago    | stomach          |
-| el brazo       | arm              |
-| la mano        | hand             |
-| el dedo        | finger           |
-| la pierna      | leg              |
-| el pie         | foot             |
+| head           | la cabeza        |
+| face           | la cara          |
+| stomach        | el estómago      |
+| arm            | el brazo         |
+| hand           | la mano          |
+| finger         | el dedo          |
+| leg            | la pierna        |
+| foot           | el pie           |
 
 # Colores
 
@@ -50,13 +50,13 @@ sidebar_label: Words
 
 | Weather   | El Tiempo |
 | --------- | --------- |
-| lunes     | Monday    |
-| martes    | Tuesday   |
-| miércoles | Wednesday |
-| jueves    | Thursday  |
-| viernes   | Friday    |
-| sábado    | Saturday  |
-| domingo   | Sunday    |
+| Monday    | lunes     |
+| Tuesday   | martes    |
+| Wednesday | miércoles |
+| Thursday  | jueves    |
+| Friday    | viernes   |
+| Saturday  | sábado    |
+| Sunday    | domingo   |
 
 # Taste
 
