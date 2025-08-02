@@ -1,6 +1,10 @@
-# Learning Spanish
+# Learning Spanish 🌟
 
-## Where can I speak Spanish?
+[![CI](https://github.com/ayonious/aprender-espanol/actions/workflows/ci.yml/badge.svg)](https://github.com/ayonious/aprender-espanol/actions/workflows/ci.yml)
+
+## ¡Hola! Ready to embark on your Spanish adventure? 🚀
+
+## 🌍 Where can I speak Spanish? (Your future vacation destinations!)
 
 1. Spain 🇪🇸
 2. Puerto rico 🇵🇷
@@ -24,9 +28,9 @@
 20. Uruguay 🇺🇾
 21. Venezuela 🇻🇪
 
-Also these countries people will understand you very vaguely and you can easily learn those languages
+### 🎯 Bonus Round! These neighbors will totally get you:
 
-## People who speak Portugese
+## 🇵🇹 Portuguese-speaking friends (basically Spanish cousins!)
 
 1. Portugal 🇵🇹
 2. Brazil 🇧🇷
@@ -36,11 +40,25 @@ Also these countries people will understand you very vaguely and you can easily 
 6. Angola 🇦🇴
 7. São Tomé and Príncipe 🇸🇹
 
-## People who speak Italian
+## 🇮🇹 Italian speakers (the romantic language family!)
 
 1. Italy 🇮🇹
 2. Sanmarino 🇸🇲
 
-# So why not learn Spanish?
+## 🎉 So why not learn Spanish?
 
-# 🗺️ 🥑 🌮 💃🕺🪕
+### Because life's too short not to order tacos in perfect Spanish! 
+
+**What you'll get:**
+- 📚 Comprehensive Spanish grammar notes and examples
+- 🎯 Interactive learning materials  
+- 🚀 From "Hola" to "¡Soy fluido en español!"
+- 🌮 The ability to authentically compliment someone's abuela's cooking
+
+---
+
+### 🎊 Ready to start? ¡Vámonos!
+
+> *"To have another language is to possess a second soul."* - Charlemagne
+
+Made with ❤️ for Spanish learners everywhere 🌍✨
